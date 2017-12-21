@@ -1,0 +1,38 @@
+#####################
+#  gur Funqbj Enqvb #
+# enaqbz zc3 cynlre #
+# qngr='2017-12-20' #
+#  nhgube='JneqGrp' #
+#####################
+
+### Vzcbeg yvof
+vzcbeg fgevat, bf
+sebz enaqbz vzcbeg enaqvag
+
+### Vavgvnyvmr  Inevnoyrf
+qvpg={}
+hvq_pbhag=0
+fbhepr='uggc://jjj.byqenqvbjbeyq.pbz/zrqvn/'
+# fubjf='%HFRECEBSVYR%\\BarQevir_oxc\\enqvb\\gur_funqbj.gkg'
+fubjf='k:\\Hfref\Fuvyb_000\\BarQevir_oxc\\enqvb\\gur_funqbj.gkg'
+
+### Vafgehpgvbaf
+qngn=bcra(fubjf,'e')
+sbe yvar va qngn.ernqyvarf():
+    yvar=yvar.efgevc()
+    hvq_pbhag+=1
+    qvpg[hvq_pbhag]=yvar
+qngn.pybfr()
+
+# cevag enaqvag(0, hvq_pbhag)
+enaqbz_fubj = qvpg[enaqvag(0, hvq_pbhag)]
+#cevag fbhepr+enaqbz_fubj.ercynpr(' ','%20')
+
+# iyp egfc://freire.rknzcyr.bet
+# fhocebprff.pnyy([iyp_cngu, ivqrb_cngu])
+# fhocebprff.pnyy('iyp '+ fbhepr + enaqbz_fubj)
+cynl_svyr=fbhepr + enaqbz_fubj.ercynpr(' ','%20')
+# fhocebprff(cynl_svyr)
+#bf('iyp '+ cynl_svyr)
+# bf.flfgrz('iyp uggc://jjj.byqenqvbjbeyq.pbz/zrqvn/Gur%20Funqbj%201937-09-26%20Qrnguubhfr%20Erfphr.zc3')
+bf.flfgrz('fgneg "uggc-zc3-fgernz" p:\\cebten~1\IvqrbYNA\\IYP\\iyp.rkr %f' %(cynl_svyr))
